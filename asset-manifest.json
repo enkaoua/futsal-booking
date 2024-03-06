@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/futsal-booking/static/css/main.8e0191ef.css",
+    "main.js": "/futsal-booking/static/js/main.83bf336f.js",
+    "index.html": "/futsal-booking/index.html",
+    "main.8e0191ef.css.map": "/futsal-booking/static/css/main.8e0191ef.css.map",
+    "main.83bf336f.js.map": "/futsal-booking/static/js/main.83bf336f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e0191ef.css",
+    "static/js/main.83bf336f.js"
+  ]
+}
