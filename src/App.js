@@ -58,7 +58,6 @@ function App() {
     const dat = Object.keys(dates)
       .filter((date) => dates[date])
       .join(", ");
-    console.log({ dat });
     return dat;
   }
 
