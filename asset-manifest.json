@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/futsal-booking/static/css/main.9956a8c1.css",
-    "main.js": "/futsal-booking/static/js/main.13cf3568.js",
+    "main.css": "/futsal-booking/static/css/main.d0efa0d5.css",
+    "main.js": "/futsal-booking/static/js/main.5306295d.js",
     "index.html": "/futsal-booking/index.html",
-    "main.9956a8c1.css.map": "/futsal-booking/static/css/main.9956a8c1.css.map",
-    "main.13cf3568.js.map": "/futsal-booking/static/js/main.13cf3568.js.map"
+    "main.d0efa0d5.css.map": "/futsal-booking/static/css/main.d0efa0d5.css.map",
+    "main.5306295d.js.map": "/futsal-booking/static/js/main.5306295d.js.map"
   },
   "entrypoints": [
-    "static/css/main.9956a8c1.css",
-    "static/js/main.13cf3568.js"
+    "static/css/main.d0efa0d5.css",
+    "static/js/main.5306295d.js"
   ]
 }
