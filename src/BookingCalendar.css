@@ -1,0 +1,32 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.h1 {
+  text-align: center;
+  font-size: 3vh;
+  color: grey;
+}
+
+.body p {
+  text-align: center;
+}
+
+.week {
+  border: 1px solid black;
+  border-radius: 2%;
+  align-self: stretch;
+  margin: 2%;
+  padding: 8vw;
+}
+
+.dates {
+  display: flex;
+  flex-direction: column;
+  padding: 2%;
+  margin: 2%;
+  justify-content: space-around;
+}
