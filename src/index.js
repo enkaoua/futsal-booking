@@ -2,13 +2,17 @@ import React from "react";
 import ReactDOM from "react-dom/client";
 import "./index.css";
 import App from "./App";
-import { createBrowserRouter, RouterProvider } from "react-router-dom";
+import {
+  createBrowserRouter,
+  createHashRouter,
+  RouterProvider,
+} from "react-router-dom";
 import Book from "./Book";
 import BookingCalendar from "./BookingCalendar";
 import Navbar from "./components/Navbar";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
-const router = createBrowserRouter([
+const router = createHashRouter([
   {
     path: "/",
     element: <App />,
